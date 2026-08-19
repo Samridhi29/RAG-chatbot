@@ -10,3 +10,6 @@ openai>=1.0
 
 # PDF loading (optional -- only needed if you ingest .pdf files)
 pypdf>=4.0
+
+# Web interface
+streamlit>=1.28.0
